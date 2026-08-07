@@ -14,6 +14,8 @@ I added a Linux host to my project and learned how network devices are placed in
 
 I configured a static IP address by editing the Linux network configuration file. This activity helped me understand how Linux stores network settings and why static IP addresses are useful in network management.
 
+I used the ip a command to verify that the static IP address was configured correctly. This helped me understand how to check network settings using Linux commands.
+
 ![GNS project adding linux](./image/week1_4.png)
 
 
