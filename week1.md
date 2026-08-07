@@ -13,6 +13,9 @@ I added a Linux host to my project and learned how network devices are placed in
 ![GNS project adding linux](./image/week1_3.png)
 
 
+![GNS project adding linux](./image/week1_4.png)
+
+
 
 
   
