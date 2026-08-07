@@ -10,7 +10,7 @@ I added a Linux host to my project and learned how network devices are placed in
 ![GNS project adding linux](./image/week1_2.png)
 
 
-I opened the Linux web new console and learned how to interact with the virtual machine through the command line like giving ip address
+I opened the Linux web new console and learned how to interact with the virtual machine through the command line like giving ip address and gateway according to need.
 
 
 ![GNS project adding linux](./image/week1_3.png)
