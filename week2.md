@@ -4,11 +4,11 @@ I created a simple network topology in GNS3 by adding four Linux hosts and one s
 
 ![GNS project intro basic](./image/week2_1.png)
 
-connected all the hosts to the switch using Ethernet links. This helped me understand how a switch allows multiple devices to communicate on the same network.
+connected all the hosts to the switch using Ethernet links which helped me understand how a switch allows multiple devices to communicate on the same network.
 
 ![GNS project intro basic](./image/week2_2.png)
 
-I edited the network configuration file and assigned a static IP address to Host 1. This helped me learn how to configure network settings in Linux.
+I edited the network configuration file and assigned a static IP address to Host 1. It helped me learn how to configure network settings in Linux.
 
 ![GNS project intro basic](./image/week2_3.png)
 
