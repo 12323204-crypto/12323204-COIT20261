@@ -10,6 +10,9 @@ I added a Linux host to my project and learned how network devices are placed in
 ![GNS project adding linux](./image/week1_2.png)
 
 
+I opened the Linux web new console and learned how to interact with the virtual machine through the command line like giving ip address
+
+
 ![GNS project adding linux](./image/week1_3.png)
 
 I configured a static IP address by editing the Linux network configuration file. This activity helped me understand how Linux stores network settings and why static IP addresses are useful in network management.
