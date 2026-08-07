@@ -28,14 +28,26 @@ I configured and verified the IP address of Host 4. This activity showed me the 
 
 This week's practical helped me learn how to build a network in GNS3, connect hosts through a switch, configure static IP addresses, and verify the settings using Linux commands. These activities improved my understanding of basic network configuration and increased my confidence in using GNS3 and Linux.
 
+
+
  **Task 2: Testing Network Connectivity and Delay with Ping**
+
+ Ping Test (ping -c 3 10.1.1.2)
  
+I tested the connection between two hosts using the ping command. The successful replies confirmed that both devices were connected and communicating correctly.
 
 ![Setting ip-12323204](./image/week2_ping1.png)
 
+I sent multiple ping packets to check the stability of the network. The results showed no packet loss, which means the network connection was stable.
+
 ![Setting ip-12323204](./image/week2_ping2.png)
+
+I tested the network using a larger packet size. The communication was successful, and I learned that the network can handle different packet sizes without errors.****
 
 ![Setting ip-12323204](./image/week2_ping3.png)
 
+I performed a final ping test to verify the network configuration. The successful responses confirmed that the IP settings were correct and the network was working properly.
+
 ![Setting ip-12323204](./image/week2_ping4.png)
 
+Overall, task helped me understand how to use the ping command to test network connectivity, measure response time, and verify that devices can communicate successfully. It also improved my confidence in troubleshooting basic network connections.
