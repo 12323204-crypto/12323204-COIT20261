@@ -14,7 +14,7 @@ Week 05 Tutorial
 
 ![Record of an ip address](./image/week5_image6.png)
 
-![Record of an ip address](./image/week5_image7png)
+![Record of an ip address](./image/week5_image7.png)
 
 ![Record of an ip address](./image/week5_image8.png)
 
