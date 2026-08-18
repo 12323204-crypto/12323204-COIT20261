@@ -28,7 +28,7 @@ Week 05 Tutorial
 
 ![Record of an ip address](./image/week5task2_1.png)
 
-Screenshot of show ip ospf route
+Screenshot of show ip ospf route, show ip ospf route, show ip route
 
 ![Record of an ip address](./image/week5task2_2.png)
 
@@ -37,6 +37,8 @@ Screenshot of show ip ospf route
 ![Record of an ip address](./image/week5task2_4.png)
 
 ![Record of an ip address](./image/week5task2_5.png)
+
+Traceroute
 
 ![Record of an ip address](./image/week5task2_6.png)
 
