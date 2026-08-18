@@ -8,7 +8,7 @@ Week 05 Tutorial
 
 ![Record of the IP addresses and routing table](./image/week5_image3.png)
 
-![3.	Record of the IP addresses and routing tables](./image/week5_image4.png)
+![3.Record of the IP addresses and routing tables](./image/week5_image4.png)
 
 ![Record of an ip address](./image/week5_image5.png)
 
@@ -25,4 +25,20 @@ Week 05 Tutorial
 ![Record of an ip address](./image/week5_image11.png)
 
 **Task 2: Dynamic Routing with OSPF**
+
+![Record of an ip address](./image/week5task2_1.png)
+
+![Record of an ip address](./image/week5task2_1.png)
+
+![Record of an ip address](./image/week5task2_2.png)
+
+![Record of an ip address](./image/week5task2_3.png)
+
+![Record of an ip address](./image/week5task2_4.png)
+
+![Record of an ip address](./image/week5task2_5.png)
+
+![Record of an ip address](./image/week5task2_6.png)
+
+![Record of an ip address](./image/week5task2_7.png)
 
