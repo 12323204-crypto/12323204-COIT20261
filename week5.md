@@ -8,7 +8,7 @@ Week 05 Tutorial
 
 ![Record of the IP addresses and routing table](./image/week5_image3.png)
 
-![3.	Record of the IP addresses and routing tables](./image/week4_image4.png)
+![3.	Record of the IP addresses and routing tables](./image/week5_image4.png)
 
 ![Record of an ip address](./image/week5_image5.png)
 
