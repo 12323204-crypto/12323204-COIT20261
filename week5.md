@@ -28,8 +28,6 @@ Week 05 Tutorial
 
 ![Record of an ip address](./image/week5task2_1.png)
 
-![Record of an ip address](./image/week5task2_1.png)
-
 ![Record of an ip address](./image/week5task2_2.png)
 
 ![Record of an ip address](./image/week5task2_3.png)
