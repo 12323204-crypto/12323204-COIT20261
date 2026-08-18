@@ -1,4 +1,4 @@
-Week 05 Tutorial
+**Week 05 Tutorial**
 
 This week, I learned how routing works between different networks. I configured IP addresses, checked routing tables, and tested connectivity using ping and traceroute. I also learned how OSPF dynamic routing allows routers to automatically discover routes and choose paths between networks. The practical activities helped me understand the difference between directly connected routes and dynamically learned routes.
 
