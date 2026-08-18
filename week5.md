@@ -24,7 +24,11 @@ In this step, I configured the network interface of Router1. The router interfac
 
 ![Record of an ip address](./image/week5_image5.png)
 
-![Record of an ip address](./image/week5_image6.png)
+ In this activity, I used the ping command to test network connectivity. The result showed 100% packet loss, which indicated that the destination could not be reached at that stage. I also checked the routing table using ip route show. This helped me understand how missing routes or disabled packet forwarding can cause communication between different networks to fail.
+ 
+![Record of a ping](./image/week5_image6.png)
+
+I examined the routing table using the show ip route command and used traceroute to observe the path taken by packets. The routing table displayed both directly connected and learned routes. Traceroute helped me identify each router that the packet passed through before reaching, or attempting to reach, the destination.
 
 ![Record of an ip address](./image/week5_image7.png)
 
@@ -38,11 +42,16 @@ In this step, I configured the network interface of Router1. The router interfac
 
 **Task 2: Dynamic Routing with OSPF**
 
+For Task 2, I worked with a larger network topology containing multiple FRR routers and different subnets. This network was used to practise OSPF dynamic routing. This activity helped me understand how multiple routers can communicate and dynamically exchange routing information instead of manually configuring every route.
+
 ![Record of an ip address](./image/week5task2_1.png)
 
-Screenshot of show ip ospf route, show ip ospf route, show ip route
+I used commands such as show ip route and show ip ospf route to examine the routing information learned through OSPF. The output showed directly connected networks as well as routes learned from other routers. This helped me understand how OSPF automatically discovers available networks and updates the routing table.Screenshot of show ip ospf route, show ip ospf route, show ip route
+
 
 ![Record of an ip address](./image/week5task2_2.png)
+
+In this screenshot, I checked the OSPF routing table on another router. The router displayed routes to networks that were not directly connected to it, including the next-hop address used to reach those networks. This helped me understand how OSPF shares routing information between neighbouring routers.
 
 ![Record of an ip address](./image/week5task2_3.png)
 
@@ -50,7 +59,7 @@ Screenshot of show ip ospf route, show ip ospf route, show ip route
 
 ![Record of an ip address](./image/week5task2_5.png)
 
-Traceroute
+Finally, I used traceroute to test the route to 10.10.6.102. The results showed the different routers that packets travelled through before reaching the destination. I also observed that different paths could be used through the network. This activity gave me a better understanding of how OSPF determines routes and how traceroute can be used to troubleshoot and verify network connectivity.
 
 ![Record of an ip address](./image/week5task2_6.png)
 
