@@ -18,6 +18,9 @@ I connected to the GNS3 server using FileZilla and browsed the remote server dir
 
 
 **Task 2: Capturing Packets**
+
+n this step, I configured FileZilla to connect to the GNS3 server using SFTP (SSH File Transfer Protocol). I entered the server address and login details to establish the connection. This helped me understand how SFTP provides a secure method for transferring files between computers.
+
 ![GNS project intro basic](./image/week3_3.png)
 
 ![GNS project intro basic](./image/week3_4.png)
