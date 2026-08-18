@@ -1,6 +1,8 @@
 Week 05 Tutorial
 
 **Task 1: View Routing Tables**
-week5_image11.png
+
+![GNS project intro basic](./image/week5_image1.png)
+
 **Task 2: Dynamic Routing with OSPF**
 
