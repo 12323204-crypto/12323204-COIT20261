@@ -3,4 +3,6 @@
 
 **Task 1: HTTP Client with GUI** 
 
-week4_image1.png
+![GNS project intro basic](./image/week4_image1.png)
+
+
