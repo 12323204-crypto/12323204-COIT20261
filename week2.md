@@ -2,9 +2,9 @@
 
 I created a simple network topology in GNS3 by adding four Linux hosts and one switch. This activity helped me understand how devices are placed before configuring the network.
 
-![GNS project intro basic](./image/week2_1.png)
+![simple network topology](./image/week2_1.png)
 
-connected all the hosts to the switch using Ethernet links which helped me understand how a switch allows multiple devices to communicate on the same network.
+I connected all the hosts to the switch using Ethernet links which helped me understand how a switch allows multiple devices to communicate on the same network.
 
 ![GNS project intro basic](./image/week2_2.png)
 
@@ -24,7 +24,7 @@ I configured the static IP address for Host 3 and restarted the network interfac
 
 I configured and verified the IP address of Host 4. This activity showed me the importance of checking the configuration after making changes to ensure the network is working properly.
 
-![GNS project intro basic](./image/Setting-IP-12323204-host2.png)
+![verified the IP address](./image/Setting-IP-12323204-host2.png)
 
 This week's practical helped me learn how to build a network in GNS3, connect hosts through a switch, configure static IP addresses, and verify the settings using Linux commands. These activities improved my understanding of basic network configuration and increased my confidence in using GNS3 and Linux.
 
