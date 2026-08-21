@@ -11,6 +11,23 @@
 
 ![GNS project intro basic](./image/week4_image4.png)
 
+![GNS project intro basic](./image/week4_image5.png)
+
+![GNS project intro basic](./image/week4_image6.png)
+
+![GNS project intro basic](./image/week4_image7.png)
+
+![GNS project intro basic](./image/week4_image8.png)
+
+![GNS project intro basic](./image/week4_image9.png)
+
+![GNS project intro basic](./image/week4_image10.png)
+
+![GNS project intro basic](./image/week4_image11.png)
+
+![GNS project intro basic](./image/week4_image12.png)
+
+![GNS project intro basic](./image/week4_image13.png)
 
 
 
