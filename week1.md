@@ -19,7 +19,7 @@ I configured a static IP address by editing the Linux network configuration file
 
 I used the ip a command to verify that the static IP address was configured correctly. This helped me understand how to check network settings using Linux commands.
 
-![GNS project adding linux](./image/week1_4.png)
+![static IP address ](./image/week1_4.png)
 
 
 
