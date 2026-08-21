@@ -5,7 +5,6 @@
 
 ![GNS project intro basic](./image/week4_image1.png)
 
-![GNS project intro basic](./image/week4_image2.png)
 
 ![GNS project intro basic](./image/week4_image3.png)
 
@@ -23,7 +22,7 @@
 
 ![GNS project intro basic](./image/week4_image10.png)
 
-![GNS project intro basic](./image/week4_image11.png)
+
 
 ![GNS project intro basic](./image/week4_image12.png)
 
